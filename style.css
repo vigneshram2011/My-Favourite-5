@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    color: darkolivegreen;
+    background-color: powderblue;
+}
+
+.menu {
+    font-family: monospace;
+}
+
+img {
+    text-align: center;
+    height: 300px;
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 24;
+}
+
+h2 {
+    text-align: center;
+    font-size: 24;
+}
+
+h3 {
+    text-align: center;
+    font-size: 24;
+}
+
+ul {
+    list-style: none;
+    float: right;
+}
+
+li {
+    display: inline;
+}
+
+iframe {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 18;
+    font-family: cursive;
+    color: darkviolet;
+}
